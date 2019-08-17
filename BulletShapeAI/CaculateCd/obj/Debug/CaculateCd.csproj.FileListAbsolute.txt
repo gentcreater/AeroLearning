@@ -1,0 +1,10 @@
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\bin\Debug\CaculateCd.exe.config
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\bin\Debug\CaculateCd.exe
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\bin\Debug\CaculateCd.pdb
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.csprojAssemblyReference.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.Form1.resources
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.Properties.Resources.resources
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.csproj.GenerateResource.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.csproj.CoreCompileInputs.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.exe
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\CaculateCd\obj\Debug\CaculateCd.pdb

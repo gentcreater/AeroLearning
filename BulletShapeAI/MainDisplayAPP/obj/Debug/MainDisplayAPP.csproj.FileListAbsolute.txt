@@ -1,0 +1,15 @@
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.csprojAssemblyReference.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.Main.resources
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.Properties.Resources.resources
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.csproj.GenerateResource.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.csproj.CoreCompileInputs.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\bin\Debug\MainDisplayAPP.exe.config
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\bin\Debug\MainDisplayAPP.exe
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\bin\Debug\MainDisplayAPP.pdb
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.exe
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.pdb
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\Interop.MSScriptControl.dll
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.csproj.ResolveComReference.cache
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\bin\Debug\Microsoft.Analytics.Types.dll
+D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\MainDisplayAPP\obj\Debug\MainDisplayAPP.csproj.CopyComplete

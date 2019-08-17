@@ -1,0 +1,5 @@
+﻿  TotalModelNum.cpp
+d:\百度网盘\学习\bulletshapeai\bulletshapeai\totalmodelnum\totalmodelnum.cpp(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\百度网盘\学习\bulletshapeai\bulletshapeai\totalmodelnum\totalmodelnum.cpp(14): warning C4101: “headflat”: 未引用的局部变量
+d:\百度网盘\学习\bulletshapeai\bulletshapeai\totalmodelnum\totalmodelnum.cpp(14): warning C4101: “fuzeflat”: 未引用的局部变量
+  TotalModelNum.vcxproj -> D:\百度网盘\学习\BulletShapeAI\BulletShapeAI\x64\Debug\TotalModelNum.exe
